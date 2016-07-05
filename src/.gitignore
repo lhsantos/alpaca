@@ -1,0 +1,5 @@
+.deps/
+*.o
+/.dirstamp
+/Makefile
+/Makefile.in

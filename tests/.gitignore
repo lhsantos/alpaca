@@ -1,0 +1,7 @@
+*.o
+*.exe
+*.log
+*.trs
+coverage/
+/Makefile
+/Makefile.in

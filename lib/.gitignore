@@ -1,0 +1,10 @@
+.libs/
+*.a
+*.gcda
+*.gcno
+*.gcov
+*.so
+*.la
+/.dirstamp
+/Makefile
+/Makefile.in
